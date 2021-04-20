@@ -3,12 +3,13 @@ Front-end project to emulate desktop of pc
 
 # Componet of project:
 
-A littel white line will be shown under open application
+One little white line will be shown under open application
 
 Terminal emulator function:
-  The windows is draggable
-  Can close, open and minimize window
+  The window is draggable
+  Window can be closed, minimized, maximized, etc...
   The input field doesn't exist, is a | blinking in a div
+  Window will be resizable
  
  File uploader: (Work in progress)
  
